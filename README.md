@@ -1,6 +1,6 @@
 
 这是一份会长期更新和完善的 Go 学习指南和面试专题，会逐步进行完善。
-
+# 这是转载eddycjy/go-developer-roadmap项目，想感谢作者的同学记得去关注他的公众号
 欢迎到【[公众号](https://github.com/eddycjy/go777#%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7)】获取最新文章或加我 【[微信](https://github.com/eddycjy/go777#%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7)】提意见（记得 Star），可倒推煎鱼更新，感谢各位。
 
 ## Go 学习指南
@@ -106,12 +106,4 @@
 - [电子书（请勿传播）](https://github.com/eddycjy/go777/blob/main/docs/book/%E7%94%B5%E5%AD%90%E4%B9%A6.md#go-%E8%AF%AD%E8%A8%80)
 - 简历模板
 
-## 我的公众号
 
-所有文章和最新进度，请关注：
-
-![image](https://image.eddycjy.com/7074be90379a121746146bc4229819f8.jpg)
-
-关注公众号后，可回复 002 可获取我的个人微信号。
-
-我拉你进 Go 读者交流群，连接数千位 Go 爱好者，共同学习和进行技术交流！
